@@ -1,0 +1,17 @@
+{
+  "p-index": {
+    "head": {
+      "title": "home"
+    },
+    "org-scroll-1": true,
+    "org-scroll-2": false,
+    "org-scroll-3": false,
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "bootstrap": true
+      }
+    }
+  }
+}
